@@ -1,0 +1,23 @@
+name: enstromcreative
+favicon: null
+layout_spectrum: 0.007254698779433966
+typography_spectrum: 0.7484936574473977
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5090441526845098
+  lightness: 0.1330190608277917
+  saturation: 0.37066738423891366
+  rhythmicContrast: 0.2790701489429921
+purpose: []
